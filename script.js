@@ -5,6 +5,4 @@ let keyboardKey = document.querySelector('.keyboardKey');
 keyboardKey.textContent = event.key;
 
 
-
-
 })
